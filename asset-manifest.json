@@ -1,13 +1,13 @@
 {
-  "main.css": "/Igor1234512345.github.io/Todo/static/css/main.d3ba678a.chunk.css",
-  "main.js": "/Igor1234512345.github.io/Todo/static/js/main.fda57c3a.chunk.js",
-  "main.js.map": "/Igor1234512345.github.io/Todo/static/js/main.fda57c3a.chunk.js.map",
-  "runtime~main.js": "/Igor1234512345.github.io/Todo/static/js/runtime~main.5805c444.js",
-  "runtime~main.js.map": "/Igor1234512345.github.io/Todo/static/js/runtime~main.5805c444.js.map",
-  "static/js/2.6e96b77b.chunk.js": "/Igor1234512345.github.io/Todo/static/js/2.6e96b77b.chunk.js",
-  "static/js/2.6e96b77b.chunk.js.map": "/Igor1234512345.github.io/Todo/static/js/2.6e96b77b.chunk.js.map",
-  "index.html": "/Igor1234512345.github.io/Todo/index.html",
-  "precache-manifest.7e7bf6cbc9e143e2cabc992c4cb89b90.js": "/Igor1234512345.github.io/Todo/precache-manifest.7e7bf6cbc9e143e2cabc992c4cb89b90.js",
-  "service-worker.js": "/Igor1234512345.github.io/Todo/service-worker.js",
-  "static/css/main.d3ba678a.chunk.css.map": "/Igor1234512345.github.io/Todo/static/css/main.d3ba678a.chunk.css.map"
+  "main.css": "/Todo/static/css/main.d3ba678a.chunk.css",
+  "main.js": "/Todo/static/js/main.62738a41.chunk.js",
+  "main.js.map": "/Todo/static/js/main.62738a41.chunk.js.map",
+  "runtime~main.js": "/Todo/static/js/runtime~main.1d1a335c.js",
+  "runtime~main.js.map": "/Todo/static/js/runtime~main.1d1a335c.js.map",
+  "static/js/2.6e96b77b.chunk.js": "/Todo/static/js/2.6e96b77b.chunk.js",
+  "static/js/2.6e96b77b.chunk.js.map": "/Todo/static/js/2.6e96b77b.chunk.js.map",
+  "index.html": "/Todo/index.html",
+  "precache-manifest.d6dc8f8613aa41a46deb0f8c4e652b10.js": "/Todo/precache-manifest.d6dc8f8613aa41a46deb0f8c4e652b10.js",
+  "service-worker.js": "/Todo/service-worker.js",
+  "static/css/main.d3ba678a.chunk.css.map": "/Todo/static/css/main.d3ba678a.chunk.css.map"
 }
